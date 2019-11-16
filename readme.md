@@ -8,4 +8,4 @@ This notebook produces transforms builds the network of Treatwell's salons in Lo
 
 Read my [article on Medium](link) to get a full overview of the project.
 
-[Treatwell's Salon Network in London](readme/venue_network.png)
+![Treatwell's Salon Network in London](readme/venue_network.png)

@@ -9,3 +9,6 @@ The notebook in this repo builds the network of Treatwell's salons in London, us
 Read my [article on Medium](link) to get a full overview of the project.
 
 ![Treatwell's Salon Network in London](readme/venue_network.png)
+
+Note:
+The data posted in this repo is just a snippet of what has actually been used. While it's still useful as a test dataset for playing around with network visualisation, it can't be used to derive any Treatwell statistics.
